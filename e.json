@@ -1,0 +1,344 @@
+{
+  "name": "Ebola Count",
+  "count": 66,
+  "frequency": "On demand",
+  "version": 5,
+  "newdata": false,
+  "lastrunstatus": "success",
+  "thisversionrun": "Mon Sep 08 2014 00:20:23 GMT+0000 (UTC)",
+  "lastsuccess": "Mon Sep 08 2014 00:46:54 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "cases": "3,967",
+        "date": "5 Sept 2014",
+        "deaths": "2,105"
+      },
+      {
+        "cases": "3,707",
+        "date": "31 Aug 2014",
+        "deaths": "1,848"
+      },
+      {
+        "cases": "3,069",
+        "date": "26 Aug 2014",
+        "deaths": "1,552"
+      },
+      {
+        "cases": "2,615",
+        "date": "20 Aug 2014",
+        "deaths": "1,427"
+      },
+      {
+        "cases": "2,473",
+        "date": "18 Aug 2014",
+        "deaths": "1,350"
+      },
+      {
+        "cases": "2,240",
+        "date": "16 Aug 2014",
+        "deaths": "1,229"
+      },
+      {
+        "cases": "2,127",
+        "date": "13 Aug 2014",
+        "deaths": "1,145"
+      },
+      {
+        "cases": "1,975",
+        "date": "11 Aug 2014",
+        "deaths": "1,069"
+      },
+      {
+        "cases": "1,848",
+        "date": "9 Aug 2014",
+        "deaths": "1,013"
+      },
+      {
+        "cases": "1,779",
+        "date": "6 Aug 2014",
+        "deaths": "961"
+      },
+      {
+        "cases": "1,711",
+        "date": "4 Aug 2014",
+        "deaths": "932"
+      },
+      {
+        "cases": "1,603",
+        "date": "1 Aug 2014",
+        "deaths": "887"
+      },
+      {
+        "cases": "1,440",
+        "date": "30 Jul 2014",
+        "deaths": "826"
+      },
+      {
+        "cases": "1,323",
+        "date": "27 Jul 2014",
+        "deaths": "729"
+      },
+      {
+        "cases": "1,201",
+        "date": "23 Jul 2014",
+        "deaths": "672"
+      },
+      {
+        "cases": "1,093",
+        "date": "20 Jul 2014",
+        "deaths": "660"
+      },
+      {
+        "cases": "1,048",
+        "date": "17 Jul 2014",
+        "deaths": "632"
+      },
+      {
+        "cases": "982",
+        "date": "14 Jul 2014",
+        "deaths": "613"
+      },
+      {
+        "cases": "964",
+        "date": "12 Jul 2014",
+        "deaths": "603"
+      },
+      {
+        "cases": "888",
+        "date": "8 Jul 2014",
+        "deaths": "539"
+      },
+      {
+        "cases": "844",
+        "date": "6 Jul 2014",
+        "deaths": "518"
+      },
+      {
+        "cases": "779",
+        "date": "2 Jul 2014",
+        "deaths": "481"
+      },
+      {
+        "cases": "759\n(6/25)+22",
+        "date": "30 Jun 2014",
+        "deaths": "467\n+14"
+      },
+      {
+        "cases": "599",
+        "date": "22 Jun 2014",
+        "deaths": "338"
+      },
+      {
+        "cases": "581",
+        "date": "20 Jun 2014",
+        "deaths": "328"
+      },
+      {
+        "cases": "528",
+        "date": "17 Jun 2014",
+        "deaths": "337"
+      },
+      {
+        "cases": "526",
+        "date": "16 Jun 2014",
+        "deaths": "334"
+      },
+      {
+        "cases": "522",
+        "date": "15 Jun 2014",
+        "deaths": "333"
+      },
+      {
+        "cases": "474",
+        "date": "10 Jun 2014",
+        "deaths": "252"
+      },
+      {
+        "cases": "453",
+        "date": "6 Jun 2014",
+        "deaths": "245"
+      },
+      {
+        "cases": "445",
+        "date": "5 Jun 2014",
+        "deaths": "244"
+      },
+      {
+        "cases": "438",
+        "date": "5 Jun 2014",
+        "deaths": "233"
+      },
+      {
+        "cases": "436",
+        "date": "3 Jun 2014",
+        "deaths": "233"
+      },
+      {
+        "cases": "383",
+        "date": "1 Jun 2014",
+        "deaths": "211"
+      },
+      {
+        "cases": "354",
+        "date": "29 May 2014",
+        "deaths": "211"
+      },
+      {
+        "cases": "319",
+        "date": "28 May 2014",
+        "deaths": "209"
+      },
+      {
+        "cases": "309",
+        "date": "27 May 2014",
+        "deaths": "202"
+      },
+      {
+        "cases": "270",
+        "date": "23 May 2014",
+        "deaths": "185"
+      },
+      {
+        "cases": "265",
+        "date": "18 May 2014",
+        "deaths": "187"
+      },
+      {
+        "cases": "260",
+        "date": "12 May 2014",
+        "deaths": "182"
+      },
+      {
+        "cases": "245",
+        "date": "10 May 2014",
+        "deaths": "168"
+      },
+      {
+        "cases": "249",
+        "date": "7 May 2014",
+        "deaths": "169"
+      },
+      {
+        "cases": "244",
+        "date": "3 May 2014",
+        "deaths": "166"
+      },
+      {
+        "cases": "239",
+        "date": "2 May 2014",
+        "deaths": "160"
+      },
+      {
+        "cases": "237",
+        "date": "1 May 2014",
+        "deaths": "158"
+      },
+      {
+        "cases": "233",
+        "date": "30 Apr 2014",
+        "deaths": "155"
+      },
+      {
+        "cases": "253",
+        "date": "24 Apr 2014",
+        "deaths": "152"
+      },
+      {
+        "cases": "252",
+        "date": "23 Apr 2014",
+        "deaths": "152"
+      },
+      {
+        "cases": "242",
+        "date": "21 Apr 2014",
+        "deaths": "147"
+      },
+      {
+        "cases": "235",
+        "date": "20 Apr 2014",
+        "deaths": "149"
+      },
+      {
+        "cases": "230",
+        "date": "17 Apr 2014",
+        "deaths": "142"
+      },
+      {
+        "cases": "224",
+        "date": "16 Apr 2014",
+        "deaths": "135"
+      },
+      {
+        "cases": "194",
+        "date": "14 Apr 2014",
+        "deaths": "121"
+      },
+      {
+        "cases": "184",
+        "date": "11 Apr 2014",
+        "deaths": "114"
+      },
+      {
+        "cases": "183",
+        "date": "10 Apr 2014",
+        "deaths": "113"
+      },
+      {
+        "cases": "179",
+        "date": "9 Apr 2014",
+        "deaths": "111"
+      },
+      {
+        "cases": "172",
+        "date": "7 Apr 2014",
+        "deaths": "105"
+      },
+      {
+        "cases": "135",
+        "date": "1 Apr 2014",
+        "deaths": "88"
+      },
+      {
+        "cases": "130",
+        "date": "31 Mar 2014",
+        "deaths": "82"
+      },
+      {
+        "cases": "114",
+        "date": "29 Mar 2014",
+        "deaths": "71"
+      },
+      {
+        "cases": "120",
+        "date": "28 Mar 2014",
+        "deaths": "76"
+      },
+      {
+        "cases": "111",
+        "date": "27 Mar 2014",
+        "deaths": "72"
+      },
+      {
+        "cases": "86",
+        "date": "26 Mar 2014",
+        "deaths": "62"
+      },
+      {
+        "cases": "86",
+        "date": "25 Mar 2014",
+        "deaths": "60"
+      },
+      {
+        "cases": "86",
+        "date": "24 Mar 2014",
+        "deaths": "59"
+      },
+      {
+        "cases": "49",
+        "date": "22 Mar 2014",
+        "deaths": "29"
+      }
+    ]
+  }
+}

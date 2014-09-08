@@ -2,7 +2,6 @@
 <html>
 <head>
    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-
 <style type="text/css">
 body {
   font: 10px sans-serif;
@@ -55,22 +54,19 @@ var line = d3.svg.line()
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
-  .append("g")
+    .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
- function kimonoCallback(data) {
- 
-    });
-    d3.json("e.json", function(data){
-    console.log(data);
-    alert(data);
-    data.results.collection1.forEach(function(d) {
-        d.date = parseDate(d.date);
-        d.cases = +d.cases;
-})
+d3.json("https://www.kimonolabs.com/api/cunpo8e4?apikey=kkCevcuN7Hsy7bpAJijb4nZtvA343dQH", function(data){
+        data.results.collection1.forEach(function(d) {
+         d.date = parseDate(d.date);
+         console.log(d);
+         d.cases = +d.cases;
+         d.deaths = +d.deaths;
+        });
 
-    x.domain(d3.extent(data, function(d) { return d.date; }));
-    y.domain(d3.extent(data, function(d) { return d.cases; }));
+    //x.domain(d3.extent(data, function(d) { return d.date; }));
+    //y.domain(d3.extent(data, function(d) { return d.cases; }));
   
     svg.append("g")
       .attr("class", "x axis")
@@ -85,13 +81,13 @@ var svg = d3.select("body").append("svg")
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Price ($)");
+      .text("Cases")
 
     svg.append("path")
       .datum(data)
       .attr("class", "line")
       .attr("d", line);
-  }
+});
 
 </script>
 </head>
